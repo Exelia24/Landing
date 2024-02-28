@@ -86,7 +86,14 @@ p {
 .footer {
 	background: #617A55;
   text-align: center;
-  padding: 20px 0;
+  padding: 24px 0;
+	position: fixed; 
+	top: 90%; 
+	left: 0; 
+	right: 0; 
+	bottom: 0;
+   border: solid black; 
+	border-width: 2px 0 0 0;
 }
 
 .container {
